@@ -1,0 +1,1 @@
+# CppQuickRef-100_CreatingUserDefinedException
